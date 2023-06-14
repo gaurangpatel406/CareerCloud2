@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CareerCloudCore.UnitTests.Assignment3": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58150;http://localhost:58154"
+    }
+  }
+}
